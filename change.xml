@@ -2,7 +2,7 @@
 <change xmlns="http://www.rbs.fr/schema/change-component/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rbs.fr/schema/change-component/1.0 http://www.rbschange.fr/static/schema/change-component/1.0.xsd">
   <name>Net_SMTP</name>
   <type>lib-pear</type>
-  <version>1.2.8</version>
+  <version>1.4.2</version>
   <description>Net_SMTP</description>
   <license>os</license>
   <repository>public</repository>
@@ -16,7 +16,7 @@
     <dependency>
       <name>lib-pear/Auth_SASL</name>
       <versions>
-        <version>1.0.3</version>
+        <version>1.0.4</version>
       </versions>
     </dependency>
   </dependencies>
